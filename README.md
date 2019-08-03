@@ -1,8 +1,10 @@
-# IKEA Trådfri
+# IKEA Trådfri 
 
 This app allows you to connect your IKEA Trådfri Devices to Homey
 
 ### Changelog
+NEW LED RGB E14 LED1624G9 (on sale july 2019)
+
 Version 1.2.14
 * Add productId for IKEA Trådfri Tunable White Bulb (E14)
 
